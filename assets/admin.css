@@ -1,0 +1,22 @@
+.geniusbrain-media-webp-compressor-progress {
+	max-width: 480px;
+	height: 12px;
+	background: #dcdcde;
+	border-radius: 6px;
+	overflow: hidden;
+}
+
+.geniusbrain-media-webp-compressor-bar {
+	height: 100%;
+	background: #2271b1;
+	transition: width 0.3s ease;
+}
+
+.geniusbrain-media-webp-compressor-warning {
+	color: #b32d2e;
+}
+
+.geniusbrain-media-webp-compressor-status {
+	margin-left: 8px;
+	vertical-align: middle;
+}
